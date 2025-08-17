@@ -1,0 +1,9 @@
+google-generativeai
+langchain
+langchain-google-genai
+langgraph
+jupyter
+
+
+
+pip install -r requirements.txt
